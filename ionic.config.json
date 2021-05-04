@@ -1,0 +1,7 @@
+{
+  "name": "PULADA_StudentPocketFile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
